@@ -1,0 +1,19 @@
+  VULNERABILITY
+  
+  Latar Belakang 
+  
+  Vulnerability in Indonesian means vulnerability usually refers to the inability, weakness of a system to handle certain situations.
+
+    To nemuin a vulnerabilty / vulnerability disebuah system is usually the attacker will review the system, for example, to CMS 
+Balitbang, because CMS is free to use so the attacker can download and install cms at localhost then start testing and
+pemeriksaantiap lines of code that exist in the CMS.
+
+    Vulnerability in the computer world is a drawback program / infrastructure that allow the exploitation of the system. 
+Vulnerability (vulnerability) is caused by an error in designing, creating or implementing a system. Vulnerability will be used 
+by hackers as a way to enter into the system illegally. Hackers usually will make the desesuaikan Exploit the vulnerability has
+found her. Each application (service, desktop, web base) must have a gap or vulnera bility, it's just not ketauan.lambat will
+gradually be found also by hackers. Not all malicious hackers, if the security hole was discovered by malicious hackers
+(Black Hat) is likely to be is used to exploit the system for his own use, or exploit will be auctioned in the "deep web" and 
+sold it to the highest bidder. But if it is found by a hacker good (white hat) usually bigger he would have reported to the 
+security of the application developer proficiency level. for leading companies such as facebook, google, microsoft, etc.,
+they will give rewards to inventors sizable bug / vulnerabillity in his system.
