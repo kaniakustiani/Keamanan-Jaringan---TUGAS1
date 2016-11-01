@@ -1,0 +1,38 @@
+
+Background
+
+Hacking is an art that involves the process of seeking sepihan -sepihan information scattered everywhere and as if
+it had nothing to do with each other.
+
+Anatomy Activities attack on Internet / Hacking. Knowing the steps of the steps for implementing network security
+/ network security is needed also their knowledge of the methods used by the attackers who generally done to attack 
+the hardware and network-owned. The attack carried out because of the gap which is owned by the hardware operating system.
+
+-Step Step Hacking
+1. Footprinting.
+   Find detailed information on the systems to be targeted, including search information to search engines, 
+   whois, and DNS zone transfer.
+2. Scanning.
+    Against a particular target of the most sought after entrance possible. Use ping sweeps and port scans.
+3. Enumeration.
+   Has intensified against the target, which is looking for a valid user account, and share network resources,
+    and applications for which protection is weak.
+4. Gaining Access.
+   Getting more data to begin trying to access the target. Covering peek and depriving password, password guessing,
+   and perform a buffer overflow.
+5. Escalating Privilege.
+    When you get a new user password in the previous stage, at this stage cultivated got admin privileges to 
+    the network password cracking or similar exploit getadmin, sechole, or LC_MESSAGES.
+6. pilfering.
+    Information gathering process begins again to identify the mechanisms to get access to a trusted system. 
+    Include an evaluation of trust and search cleartext passwords in the registry, config files, and user data.
+7. Covering Tracks.
+    Once complete control of the system is obtained, then close the trail becomes a priority. 
+    Network log includes the cleaning and the use of tools like hide all kinds of rootkits and file streaming.
+8. Creating Backdoors.
+    The rear door was created in various parts of the system to facilitate the re-entry into the system by
+    setting up a fake account user, batch job scheduling, changing the startup file, embed servicing remote control and monitoring tool, and replace an application with the trojan.
+9. Denial of Service (DOS).
+    When all the above efforts failed, the attacker can paralyze targets as a last resort. 
+   Covering SYN flood, ICMP techniques, Supernuke, land / latierra, teardrop, bonk, newtear, trincoo, smurf, and others.
+   Examples: WireShark pointless to peek
