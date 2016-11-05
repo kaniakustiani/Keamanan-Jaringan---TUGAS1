@@ -1,0 +1,56 @@
+
+  Sniffing is wiretapping conducted in the network with the aim to steal personal data or other personal account. 
+Because the data flow in the network is back and forth, then the sniffing process can capture packets sent and 
+sometimes describe the contents of RFC (Request for Comments). At the Application Layer,
+is usually the act of sniffing is done by inserting an application program to a victim's
+computer which will program the application will run and make the process of sniffing or eavesdropping
+sehinggan transmitted data can be seen by the perpetrator sniffing. There are two sniffing activity, namely:
+
+1. Passive Sniffing
+    Is tapping without changing any data or packets on the network ..
+2. Active Sniffing
+    An activity that can alter sniffing data packets in the network in order to make sniffing. Sniffing is often used by analysts networking, both from the developer or network administrator to control servers and perform troubleshooting. However, sniffing process is sometimes misused by someone so that data can be captured so that data may be very important that can be read by people who do sniffing.
+
+  Sniffing is a security threat that can not only occur at the application layer, but can also occur at the physical layer.
+The act of sniffing at the physical layer is typically done by illegal wiretap.
+
+Potential Dangers of sniffing
+1. Loss of privacy
+    Like the example above, if your email can be captured by a sniffer (person doing the sniffing) then the contents of the 
+email becomes no longer is private / personal if the sniffer to read the contents of the email.
+2. important and confidential information stolen
+    Password and username are confidential information that can be captured by a sniffer easily when the victim logs in on 
+the web page via the Internet. If the username and password is stolen it can easily replace it with the new Sniffer
+then steal all the information in the web page are protected by the password. So with so the victim can only bite the
+finger because the password has been changed, so that he could not log in, and it has been in the mess and stolen.
+
+How do sniffing
+    Sniffing is usually done using a tool or software Sniffer. The famous example: CAIN & ABEL, Ethereal, tcpdump,
+ettercap, Dsniff, ETHERPEAK, AIROPEAK etc. Kemuadian whether if we already have the tools Sniffing we can easily
+do the tapping of data traffic in a computer network? The answer, NOT EASY, because the data traffic on the network
+the computer is not as it was written at the victim's computer screen. Such data could be had in encript or at random, 
+so need to be translated in advance. Regarding how much detail how to do this Sniffing, please read the book Atua 
+searching on the internet, because I have not mempuyai capacity of itself.
+
+How to Prevent sniffing
+    How to prevent sniffing is almost non-existent. Is Antivirus pengunakan original and uptodate can prevent it? NO.
+Does the use of Firewall can prevent it? NO. Why not ? Because sniffing is done when the data is already out of the
+victim's computer and are dijaringan computer, so that the Sniffer does not strike directly onto the victim's computer.
+So how does this sniffing prevention? The trick is to not perform activities that are confidential (eg, email, e-banking,
+chatting secrets etc.) on a computer network that you are unfamiliar, Mass cafe or office computer memilii very much 
+connected in a network. You have to know the people who hold the computer in the network. Get to know well if they are a 
+regular computer user or computer users who had knowledge of hacking. Simply put when you're on a computer network that
+is not yet known, be paranoid or be very careful in the activity in the internet world.
+
+conclusion:
+  Sniffing is wiretapping conducted in the network with the aim to steal personal data or other personal account. 
+Because the data flow in the network is back and forth, then the sniffing process can capture packets sent and 
+sometimes describe the contents of RFC (Request for Comments).
+
+Suggestion :
+  Do not give up easily in reach of everything. As an act of sniffing steal personal data or account, 
+then you should be able to steal sciences yet you get.
+
+Name: Kania Kustiani
+NPM : 1144038
+Class: D4 Informatics Engineering - 3D
