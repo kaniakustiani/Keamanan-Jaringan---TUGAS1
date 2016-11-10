@@ -1,0 +1,67 @@
+  
+  Snooping is an electronic monitoring of the digital network to find out passwords or other data. There are a variety of techniques 
+snooping or also known as eavesdropping, namely: shoulder surfing (direct observation of the display monitor for someone to gain access),
+dumpster diving (access to obtain passwords and other data), digital sniffing (electronic surveillance of the network to reveal passwords
+or data other).
+
+  Spoofing is a technique suau yng used for unauthorized access to a computer where the assailant entered by way of falsifying pretend
+that they host trustworthy is usually done by a lady haker.
+
+  IP spoofing is used to carry out criminal activities online and to breach network security.Hackers use IP spoofing so that they are 
+not stuck to perpetrate spamming and denial of service attacks. This is an attack that involvesa large amount of information sent to 
+a computer over a network in an attempt to undermine the entire network. IP spoofing is also used by hackers to penetrate the security
+of a network by using a fake IP address that reflects one of the addresses on the network. In other words he can use the username and 
+password along with a valid IP address on a network when using IP Spoofing.
+
+  Prevention of IP Spoofing It is possible to protect the network against IP spoofing using Ingress filtering that 
+uses the package to filter inbound traffic. This system has the ability to determine whether the packet is coming 
+from within the system or from outside sources.
+
+Various Spoofing
+  1. IP-Spoofing is a complex technical attack yag yag consists of several components. A security exploit that works by tricking commuters in keercayaan that your relationship is another orag.
+  2. DNS Spoofing is taking the DNS name of another system with a domain name server jeopardize a legitimate domain.
+  3. Idetify Spoofing is an act of breastfeeding is by using an official identity illegally. With the idetitas receipts, the infiltration will be able to access anything on the network.
+
+How to Do Spoofing
+  1. TOR
+        TOR is an open source project created in 2001 and are still being developed until now tor uses the concept called sebagaionin
+      proxy by which data is sent to the place of interest will go through several different proxy faithful randomly selected time.
+      How easy enough nets meggunakannya rogramnya wait a bit and will appear innate tor firefox then please check the IP address, 
+      the IP will be obscured if you want to have tool.
+  2. Proxy Switcher
+      To use this tool first time click the download button and double-click a proxy that you want to use the automatic setting dibrowser
+     we will turn it into a proxy that we select only sala earlier this program is licensed alias paid but many crack spread for 
+     the program.
+  3. Anonymouse.org
+      Anonymouse is not a program but a website that offers IP masquerade we just enter the website address to be visited and anonymouse
+      will open the website through the proxy they manage.
+      
+How Spoofing Countermeasures
+  1. Not meerima table of siapapu
+  2. mmebuat static tables that can not be changed or updated
+  3. Install Filters on the router with memafaatkan da ingress egress router filterrig there is a step ertama in memepertahnkan themselves from spoofing.
+  4. Ekripsi and authentication must megelimiasi all berdasrakan host authentication is used on computers with the same subnet.
+
+Spoofing attacks are carried Hacker
+  Spoofing is often used by hackers to launch attacks as below.
+  1. SMURAF Attack
+       Is a broadcast ping is sent and the source IP looks the same as the victim's IP address. The computer will respond back and sent 
+     and will meirim Ping Reply to the victim. This happens continuously, until the victim's machine or link will overload causing a 
+     Denial of Service.
+  2. TCP sequence number prediction
+      A TCP connection is marked with a sequence number for the client and server, if the sequence number can be guessed that the 
+     hecker can easily forged IP address.
+  3. DNS poisoning through sequence prediction
+      DNS servers typically query other DNS servers to find out the name of another host. Hackers send recquest to the
+     target DNS server, as well as a response to the same server.
+
+conclusion:
+            So Spoofing itself merupakann suau techniques used for unauthorized access to a computer where the assailant entered
+            by way of falsifying pretend that they host trustworthy is usually done by a lady haker.
+Suggestion :
+            In learning this time there are many who have studied the benefits of new things that we know in the world of Information
+            Technology, the premises their.
+            
+Name: Kania Kustiani
+NPM: 1144038
+Class: D4 Informatics Engineering - 3D
