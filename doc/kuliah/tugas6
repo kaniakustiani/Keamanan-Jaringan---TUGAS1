@@ -1,0 +1,40 @@
+DENIAL OF SERVICE
+
+BACKGROUND
+Denial Of Service is a type of attack against a computer or server on the network the internet by way of spending resources (resource) owned by the computer until the computer can not run its function properly so that indirectly prevents other users to gain access to the services of a computer being attacked.
+In a Denial of Service Attack, the attacker will try to prevent the access of a user of the system or network by using a few different ways, namely as follows:
+1. Flooding the network with traffic data so much network traffic that comes from registered users being unable to get into the network system. This technique is referred to as DOS flooding traffic.
+2. Flood the network with a lot of request (a request) to a network service that disedakan by a host so that the request is coming from unregistered users cannot be served by the service. This technique is known as request DOS flooding.
+3. Disrupt the communication between a host and its clients that are registered by using the many ways, including by changing the system configuration information or even physical destruction against components and servers.
+DISCUSSION
+Denial of service is a type of attack that the aim is to prevent users who truly enjoy the services provided server. The server name is the servant should always be ready to serve user requests, which generally operate 24 hours nonstop. Examples are web servers serving the web visitor provides information in the form of an html page. Under normal conditions, you can request a resource from the web server to be displayed in the browser, but if web server exposed to DoS attacks then visitors are not able to enjoy the web service server.
+
+In general there are two ways of conducting DoS attacks:
+1. Turn off the Server
+DOS by turning off your Server never experienced want to use a public phone or ATM but could not because the paper affixed on the machine containing the message "Out of Service" or "Being under repair". A public phone is the target of DoS attacks happens, everywhere we find a public phone is damaged due to DoS attacks like slam the butt of the phone, unplug the LCD, break and other actions.
+The purpose of this attack is to create a server shutdown, reboot, crash, "not responding". So this attack generates persistent nature means damage condition DoS will still occur even though the attacker had stopped attacking, the new server back to normal after restart/reboot. This attack is done by updating bug/exploit vulnerability on server. Keywords on the vulnerability of this type usually is "specially/carefully crafted packet/request", which means it is a specially designed package. Why specifically designed? For in a package that contains certain properties that make the servers off when processing the special package of it.
+• Ping of Death (CA-1996-26)
+This is the kind of bug that was already very old. Practically no longer exist systems that are vulnerable against this bug. This bug when diexploit will make the server crash, freeze or reboot. This attack is done by sending a "specially crafted" packet be oversized ICMP packet, the packet size that is above normal. When the server receives and processes the package that "strange", then the server will crash, freeze or reboot. These are examples of DoS attacks "one shot one kill" because it could damage the server with just one shot only.
+• IF YOUR MySQL Query DoS (SA25188)
+This bug will make mysql server be a crash just by sending a special sql containing the function IF () for example: "SELECT id from example WHERE id IN (1, (SELECT IF (1 = 0, 1, 2/0)))". This is also a type of attack "one shot one kill".
+• Cisco Global Site Selector DNS Request Denial of Service (SA33429)
+This bug makes the DNS server Cisco die by sending several "specially crafted" DNS request packet in a particular order.
+2. The Server Busy
+DOS with a Busy Server on time ahead of the Idul fitri holiday we often find it so difficult to even send sms, often the case failed to send. So also when taking place quiz show on TV, mengelpon to the numbers to answer quiz feels so difficult. This happens because there are so many people sending sms at a time when underwear and a call at the time the quiz so that makes telecommunications network to be so busy until another user cannot serve. Events similar to those that occur when a server gets a denial of service attack. Events happening at DOS is not the kind of deadly DoS server, but the server busy type of DoS. This type of DoS is temporary, the server will return to normal when the attacker stops sending requests that make a busy server.
+DOS this type is divided into two types based on the way an attack:
+1. Exploiting vulnerability: attack with malicious requests/packet
+2. No vulnerability exploitation: attack with a normal request/packet
+Make the server busy with vulnerability exploits is faster than without the mengeksploit vulnerability.
+Denial of service is an attack that makes server cannot serve the real users. These are the kinds of DoS attacks based on how an attack:
+1. Turn off the Server: one shot, one kill to make server be crashes, hangs, reboot.
+2. Busy Server: send a request to make an awful lot of busy servers.
+• Exploiting bugs: send many specially crafted request. The number of requests is not as much of a concern DoS type server with a normal request.
+• Normal request: send a lot of user requests as normal as usual. The number of requests required more than it busying DoS type server with exploit bugs. Usually use a botnet are distributed.
+
+Conclusion:
+Denial of service is an attack that makes server cannot serve the real users.
+Suggestions:
+
+Name: Kania Kustiani
+NPM: 1144038
+Class: D4 Informatics Engineering – 3D
