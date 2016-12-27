@@ -1,0 +1,35 @@
+INTRODUCTION
+Discussing the system illiquid firewall serves as the giver of BOV to the controlled access to the security of the network traffic of your computer. in General, understanding firewalls can also refer to a system that is done to control access to private networks from within and outside the party. As for the other functions of the firewall as the system that acts as a gateway between your internal computer network security with external.
+FIREWALL
+computer network security system used to protect a computer from some kinds of computer attacks from outside. A firewall is a way to ensure that the data on your computer or a connected Web server will not be accessible to anyone on the Internet. Other parties who access personal information or change your website will be on the block by the Firewall.
+
+FUNCTION FIREWALL
+The word firewall more refers to a generic term which means as a regulator system communication between the two networks. There are the most important attributes that exist in the firewall.
+All network traffic must pass through the firewall communication
+Only authorized traffic is allowed by the firewall
+Have the ability to ward off the attacks of hackers from the internet
+A firewall acts as a controller and supervisor current data packet flowing on the network. In addition the firewall also has a duty to regulate, namely, filters and controls the data traffic that is allowed to access a private network are protected. Here are some of the criteria in selecting the firewall performed data packets that are considered qualified for, among other things:
+
+The source computer IP Address
+TCP/UDP ports from source
+IP Address of the destination computer.
+Data port TCP/UDP on destination computer
+Header information in the packet data
+Firewall will perform the authentication credentials against the user's access to the network. Proxy firewall can examine more than just the headers on data packets so that able to detect application-specific protocols.
+
+THE WORKINGS OF THE FIREWALL
+Firewall systems work by analyzing the data packets that exit and entry into the secure environment that is protected by the firewall system. Data packets that do not qualify for the analysis will be refused to enter or exit the network or the computer that is protected. A filter or firewall filter will work evaluating the source of the incoming data packets with the policy that was created to control package from anywhere can enter. The system can also perform a specific type of network on blocking and logging traffic suspicious data packets.
+
+HOW TO SET FIREWALL SETTINGS
+Ø IP address – any machine, not just the computer, which is connected to the Internet has a unique address called IP. If an IP address is too much sending suspicious data packets, the firewall can block all data packets from that IP address.
+Ø a domain name – all servers on the Internet have domain names to make it easier for us menghapalnya than having to use a series of IP addresses, for example you are certainly easier to recite the efendy.com domain name instead of number 202.222.22.222, is not it? Firewalls can block all access to a particular domain name, or only allow access to some of the specific domain name.
+Ø Protocol – in communicating, a fellow computer using specific lines. Lines of communication are known with the name of the Protocol. For example, to communicate with a web server, a web browser using an HTTP path. Firewalls can filter traffic data on some of the protocols that the plural is used, such as HTTP, FTP, UDP, ICMP, SMTP, SNMP, telnet, and others.
+Ø Port – every server using numbered ports to provide services on the Internet. One port for a single service. For example, if a server running the web server and FTP server, usually a web server will use port 80, FTP server and use port 21. A firewall may be blocking access to port 21 for FTP access banned to and from a computer dilindunginya.
+Ø the words of a certain word or phrase – the Firewall can block any outgoing and incoming data containing a certain word or phrase by way of a sniff (sniff) every data packet and match any word or phrase in it with a list of black list. For example, the administrator can enter the words porn, sex, nude, and the words of other pornography to prohibit any computer to access pornographic websites.
+
+Conclusion: a Firewall is a system that is functioning as the giver of the authority to the owner access to the security of the network traffic of your computer.
+Suggestion: no need to Learn any time, but must be many tried continuously.
+
+Name: Kania Kustiani
+NPM: 1144038
+Class: D4 Informatics Engineering – 3D
