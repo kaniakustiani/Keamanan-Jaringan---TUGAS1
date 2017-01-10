@@ -1,0 +1,29 @@
+INTRODUCTION
+A FIREWALL can be called the "gatekeepers" or guard the gates that protect companies from internet laiinya computer network from intrusion or an intruder, the firewall is also generally used to control access to anyone who has access to the private network from outsiders, the term firewall becomes a generic term that refers to the system that regulates the communication between two different networks. Given the many companies currently have access to the Internet and also of course the corporate network in it, then the protection of the company's digital assets from attack hackers, abusers of espionage, or other data, the thief becomes essential. "
+Picture Of Firewall
+DISCUSSION
+A firewall is a software system which allows network traffic that is considered safe to be able to pass through and prevent network traffic that is considered unsafe. Generally, a firewall is applied in a dedicated engine, which runs on the gateway (GATEWAY) between the local network to the Internet network.
+A FIREWALL is a security device can be either a software program or a network appliance (hardware). The main purpose of a firewall is to separate the area safe from less secure areas and to control the communication between the two. A firewall can perform various other functions, but is primarily responsible for controlling inbound and outbound communication from one computer to all networks
+The Function Of A Firewall On The Network
+1. Control and monitor data packets flowing across the network, the Firewall must be able to manage, filter and control the traffic data that is permitted to access private networks that are protected by a firewall
+2. Firewall must be able to perform the examination of data packets that are going through the private network
+3. Perform the authentication credentials against access
+4. Firewall able to examine more than just the header of data packets, this ability demands the firewall to be able to detect certain application protocol specification
+5. Records every transaction events that occurred in the firewall. This enables early detection will help as the possibility of an inroad network
+Types of Firewalls
+1. Personal Firewall
+A firewall is designed to protect a computer that is connected to the network from unwanted access. This type of firewalls lately evolved into a collection of programs aimed at securing computers in total, with additional safety features added that some kind of protection device against viruses, anti-spyware, anti-spam, and more. Even some other firewall products come with network security disturbance detection (Intrusion Detection System). An example of this type of firewall is Windows Firewall, Symantec Norton Personal Firewall, Kerio Personal Firewall.
+2. the Network Firewall
+A firewall is designed to protect the overall network of various attacks. Generally found in two forms, namely a dedicated device or as a software which is installed in a server. An example of this is the firewall Microsoft Internet Security and Acceleration Server (ISA Server), Cisco PIX, Cisco ASA, IPTables in the GNU/Linux operating system, an operating system family pf BSD Unix, as well as SunScreen of Sun Microsystems, Inc.
+
+The Workings Of The Firewall
+1. reject and block data packets that come based on sources and unwanted tujaun
+2. reject and filter data packets originating from a network of intenal onto the internet. His example when there are internel network users will be accessing porn sites
+3. reject and filter data packets to unwanted content such as websites that contain viruses detected
+4. Report all network activity and firewall activity
+understanding firewall is a system designed to prevent unauthorized access to or from a network. Firewalls can be implemented using either hardware or software, or a combination of both. Firewalls are frequently used to prevent unauthorized access from INTERNET users from accessing private networks connected to the Internet, especially intranets.
+
+Conclusion:
+A firewall is a software system which allows network traffic that is considered safe to be able to pass through and prevent network traffic that is considered unsafe.
+Suggestions:
+Learn lah in earnest before later regret with the deed now.
