@@ -1,0 +1,13 @@
+BACKGROUND
+RADIUS (Remote Authentication Dial-In User Service) is a computer security protocol used to perform authentication, authorization, and centralized user account registration for access to the network. RADIUS is applied in the network with a client-server model.
+DISCUSSION
+Radius Server provides a security mechanism with handle authentication and authorization of the connection is done by user. At the time the client computer will connect yourself with the network then the Radius server will ask for the identity of the user (username and password) to then be matched with the data in the database for the Radius server and then determined whether the user is permitted to use the services in a computer network. If the process of authentication and authorization is successful then the reporting process is performed, i.e. with records all user connections activities, calculate the time duration and the amount of data transfer is done by the user. Reporting process conducted a Radius server can be in the form of time (seconds, minutes, hours, etc.) or in the form of large data transfers (bytes, Kbytes, Mbyte) (Anonymous-B, 2006). Radius server software that is used in this research is the Freeradius is modular and has many features. FreeRADIUS server software is based on open source and GPL-licensed.
+RADIUS servers are typically implemented in on Linux OS or Windows NT, Free Radius of one of the popular linux OS. Remote Dial-In User Authentification Service is an authentification system to be able to sign in to access a network. Hotspot login example poltekpos.
+Function on a radius there are 3 i.e. AAA
+1. Authentication is the process of verifying the user usually with a username and password.
+2. Authorization is the process of granting access to the network.
+3. Accounting is the calculation of the amount of the selected user.
+Conclusion:
+RADIUS (Remote Authentication Dial-In User Service) is a computer security protocol used to perform authentication, authorization, and centralized user account registration for access to the network
+Suggestions:
+Take the time create read-read let their knowledge increased.
