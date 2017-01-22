@@ -1,0 +1,16 @@
+In General, cryptography is a science and art to maintain secrecy News [bruce Schneier-Applied Cryptography]. In addition to these there is also a sense of understanding of the study of mathematical techniques associated with information security aspects such as data confidentiality, the validity of the data, data integrity, and data authentication [a. Menezes, p. van Oorschot and s.
+Cryptography is a science that studies how to keep data or message remains secure when sent from the sender to the recipient without experiencing interference from third parties. Cryptography is a branch of mathematics that has many functions in the
+security of data. Cryptography is the process of taking the message/message and use
+some of the functions for the menggenerasi cryptographic material (an encrypted message or digest). Cryptography itself consists of two main processes namely the encryption process and the decryption process. As explained above, the process of changing plaintext into ciphertext encryption (using the specific key) so that the contents of the information on the message is difficult to understand.
+The fundamental purpose of cryptography is also the aspect of information security are:
+1. Confidentiality, is a service that is used to maintain the contents of information from anyone except that has authority or the secret key to unlocking/peel back information that has been disandi.
+2. data integrity, is related to the care of the change data is not valid. To maintain the integrity of the data, the system must have the ability to detect manipulation of data by the parties are not entitled to, among other things, the insertion, deletion, and other data into the pensubsitusian of the actual data.
+3. Authentication, is related to the identification/recognition, either for inclusion or information system itself. The two parties communicate each other should introduce themselves. Information submitted through the Canal had to be diautentikasi the authenticity, content data, delivery time, and others.
+4. Non-repudiasi., or nirpenyangkalan is an attempt to prevent the occurrence of denial of shipment/creation of an information by the submitting/making.
+
+The development of communication has led man to hide the information from others for reasons of security and privacy.
+A person who seeks to develop and make the cryptographic code called a cryptographer. While someone who is trying to break the code is called cryptanalists. Cryptography has been known since 4000 years ago. Cryptography was the attempt to change the message by adding or changing certain characters. Now, it has been found the latest cryptographic methods, namely: quantum cryptography.
+
+Name: Kania Kustiani
+NPM: 1144038
+Class: D4 Informatics Engineering – 3D
